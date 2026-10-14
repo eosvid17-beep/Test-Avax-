@@ -1,0 +1,6 @@
+{
+  "name": "AvaZK - Identidad On-Chain Soberana en Avalanche",
+  "description": "Plataforma de identidad soberana en Avalanche con credenciales Soulbound NFT, pruebas ZK con revelación selectiva e interoperabilidad Teleporter.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
